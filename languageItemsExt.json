@@ -10,5 +10,17 @@
     "AlchemicalShields": {
         "value": "Alchemical Invulnerability",
         "desc": "10% of enemies are equipped with an impervious Elemental Barrier that can only be destroyed by an Amphor of the corresponding element."
+    },
+    "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithMeleeEasy": {
+        "value": "Electronic Waste Disposal",
+        "desc": "Kill 100 Techrot with Melee Weapons"
+    },
+    "/Lotus/Upgrades/Calendar/ElectricalDamageOnBulletJump": {
+        "value": "Dynamo Jump",
+        "desc": "On landing from a bullet jump gain +50% Electricity Damage for 3s."
+    },
+    "/Lotus/Types/Challenges/Calendar1999/CalendarKillEximusMedium": {
+        "value": "Ex-Eximus",
+        "desc": "Kill 20 Eximus"
     }
 }
