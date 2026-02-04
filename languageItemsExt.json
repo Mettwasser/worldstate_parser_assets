@@ -22,5 +22,9 @@
     "/Lotus/Types/Challenges/Calendar1999/CalendarKillEximusMedium": {
         "value": "Ex-Eximus",
         "desc": "Kill 20 Eximus"
+    },
+    "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesHard": {
+        "value": "Even the odds",
+        "desc": "Kill 1000 Enemies"
     }
 }
